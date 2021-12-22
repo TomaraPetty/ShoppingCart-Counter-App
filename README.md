@@ -1,4 +1,4 @@
-# Counter-App
+# Shopping Cart Counter App
   
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 
