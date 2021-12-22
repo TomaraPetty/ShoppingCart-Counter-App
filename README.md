@@ -17,6 +17,8 @@
 *Overview of this project:* 
 * This is a React project that showcases the pattern behind items in a shopping cart. 
 
+<img src="images/shoppingcart.gif">
+
 ## Installation
 *Steps required to install project and get the development environment established:*
 * Make a clone of this repo into a new repo of your own. There is an html, css, and js file so once you have that installed into your new repo, you can publish your site and it will function as shown in the usage section below. 
